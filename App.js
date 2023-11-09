@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   },
   address:{
     color: "black",
-    fontSize: 10,
+    fontSize: 15,
     marginBottom: 10
   },
   containers:{
